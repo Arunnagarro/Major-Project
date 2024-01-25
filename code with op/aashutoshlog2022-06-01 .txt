@@ -1,0 +1,16 @@
+################### file created at 2022-06-01 09:42:04.535736 . ###################################### 
+aashutosh login at 09:42:07.217946. 
+[Match Found] ==> Time : 09:42:22.778990 .
+[Match Found] ==> Time : 09:42:24.218166 .
+[Match Found] ==> Time : 09:42:25.626581 .
+[Match Found] ==> Time : 09:42:27.129732 .
+Unable to identify the faces => Time  : 09:42:27.670419 .
+[Match Found] ==> Time : 09:42:29.158572 .
+Unable to identify the faces => Time  : 09:42:29.666280 .
+Unable to identify the faces => Time  : 09:42:30.337818 .
+ mail send successfully . 
+aashutosh logged out at 09:42:33.363450.
+Total active time is 0:00:24.503867 sec . 
+ ==============  face is  detecting for 0 sec .           ========================
+ ==============  face is not detecting for 0  sec .          ======================== 
+ ==============   unknown face is  detecting for 0 sec .            ======================== 

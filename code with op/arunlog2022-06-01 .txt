@@ -1,0 +1,67 @@
+################### file created at 2022-06-01 09:40:23.712272 . ###################################### 
+arun login at 09:40:26.256736. 
+Unable to identify the faces => Time  : 09:40:34.868582 .
+Unable to identify the faces => Time  : 09:40:36.188272 .
+[Match Found] ==> Time : 09:40:38.229774 .
+[Match Found] ==> Time : 09:40:39.841870 .
+[Match Found] ==> Time : 09:40:41.279049 .
+[Match Found] ==> Time : 09:40:42.722295 .
+[Match Found] ==> Time : 09:40:44.206352 .
+[Match Found] ==> Time : 09:40:45.632544 .
+Unable to identify the faces => Time  : 09:40:52.181353 .
+Unable to identify the faces => Time  : 09:40:52.661062 .
+Unable to identify the faces => Time  : 09:40:53.158777 .
+Unable to identify the faces => Time  : 09:40:53.663506 .
+[Match Found] ==> Time : 09:40:59.609056 .
+ mail send successfully . 
+arun logged out at 09:40:59.613055.
+Total active time is 0:00:30.114614 sec . 
+ ==============  face is  detecting for 0 sec .           ========================
+ ==============  face is not detecting for 0  sec .          ======================== 
+ ==============   unknown face is  detecting for 0 sec .            ======================== 
+
+
+
+
+
+################### file updated at 2022-06-01 14:01:43.962590 . ###################################### 
+arun login at 14:01:49.293622. 
+[Match Found] ==> Time : 14:02:10.508109 .
+[Match Found] ==> Time : 14:02:12.492045 .
+Unable to identify the faces => Time  : 14:02:13.193197 .
+[Match Found] ==> Time : 14:02:15.594312 .
+[Match Found] ==> Time : 14:02:17.440578 .
+[Match Found] ==> Time : 14:02:18.842782 .
+[Match Found] ==> Time : 14:02:20.255978 .
+[Match Found] ==> Time : 14:02:21.661188 .
+[Match Found] ==> Time : 14:02:23.093084 .
+[Match Found] ==> Time : 14:02:24.513279 .
+[Match Found] ==> Time : 14:02:25.983714 .
+[Match Found] ==> Time : 14:02:34.449902 .
+[Match Found] ==> Time : 14:02:36.490717 .
+ mail send successfully . 
+arun logged out at 14:02:36.494716.
+Total active time is 0:00:42.473871 sec . 
+ ==============  face is  detecting for 0 sec .           ========================
+ ==============  face is not detecting for 0  sec .          ======================== 
+ ==============   unknown face is  detecting for 0 sec .            ======================== 
+
+
+
+
+
+################### file updated at 2022-06-01 16:02:26.202661 . ###################################### 
+
+
+
+
+
+################### file updated at 2022-06-01 16:04:16.225438 . ###################################### 
+arun login at 16:04:18.932382. 
+
+
+
+
+
+################### file updated at 2022-06-01 16:07:20.285054 . ###################################### 
+arun login at 16:07:25.729315. 

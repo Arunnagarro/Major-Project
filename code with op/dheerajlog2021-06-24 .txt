@@ -1,0 +1,109 @@
+################### file created at 2021-06-24 14:58:36.284779 . ###################################### 
+dheeraj login at 14:58:38.135364. 
+
+
+
+
+
+################### file updated at 2021-06-24 14:59:37.827786 . ###################################### 
+dheeraj login at 14:59:39.856267. 
+Unable to identify the faces => Time  : 14:59:42.593566 .
+Unable to identify the faces => Time  : 14:59:43.023988 .
+Unable to identify the faces => Time  : 14:59:43.428992 .
+Unable to identify the faces => Time  : 14:59:43.828592 .
+Unable to identify the faces => Time  : 14:59:44.228370 .
+Unable to identify the faces => Time  : 14:59:44.630928 .
+Unable to identify the faces => Time  : 14:59:45.033351 .
+Unable to identify the faces => Time  : 14:59:45.447093 .
+Unable to identify the faces => Time  : 14:59:45.855840 .
+Unable to identify the faces => Time  : 14:59:46.243508 .
+Unable to identify the faces => Time  : 14:59:46.645601 .
+Unable to identify the faces => Time  : 14:59:47.043352 .
+Unable to identify the faces => Time  : 14:59:47.449105 .
+Unable to identify the faces => Time  : 14:59:47.851853 .
+Unable to identify the faces => Time  : 14:59:48.253608 .
+Unable to identify the faces => Time  : 14:59:48.661376 .
+[Match Found] ==> Time : 14:59:49.933575 .
+Unable to identify the faces => Time  : 14:59:50.326332 .
+Unable to identify the faces => Time  : 14:59:50.732423 .
+Unable to identify the faces => Time  : 14:59:51.129193 .
+Unable to identify the faces => Time  : 14:59:51.521564 .
+Unable to identify the faces => Time  : 14:59:51.918760 .
+Unable to identify the faces => Time  : 14:59:52.315639 .
+Unable to identify the faces => Time  : 14:59:52.708879 .
+Unable to identify the faces => Time  : 14:59:53.098638 .
+Unable to identify the faces => Time  : 14:59:53.503387 .
+Unable to identify the faces => Time  : 14:59:53.895144 .
+Unable to identify the faces => Time  : 14:59:54.277795 .
+Unable to identify the faces => Time  : 14:59:54.682841 .
+Unable to identify the faces => Time  : 14:59:55.066623 .
+Unable to identify the faces => Time  : 14:59:55.469576 .
+Unable to identify the faces => Time  : 14:59:55.867666 .
+Unable to identify the faces => Time  : 14:59:56.266420 .
+Unable to identify the faces => Time  : 14:59:56.657175 .
+Unable to identify the faces => Time  : 14:59:57.060934 .
+Unable to identify the faces => Time  : 14:59:57.491681 .
+Unable to identify the faces => Time  : 14:59:57.888311 .
+Unable to identify the faces => Time  : 14:59:58.284623 .
+Unable to identify the faces => Time  : 14:59:58.678377 .
+Unable to identify the faces => Time  : 14:59:59.081074 .
+Unable to identify the faces => Time  : 14:59:59.481086 .
+Unable to identify the faces => Time  : 14:59:59.884969 .
+Unable to identify the faces => Time  : 15:00:00.303735 .
+Unable to identify the faces => Time  : 15:00:00.715496 .
+Unable to identify the faces => Time  : 15:00:01.121245 .
+Unable to identify the faces => Time  : 15:00:01.528364 .
+Unable to identify the faces => Time  : 15:00:01.965095 .
+[Match Found] ==> Time : 15:00:03.322675 .
+[Match Found] ==> Time : 15:00:04.640798 .
+Unable to identify the faces => Time  : 15:00:05.036509 .
+[Match Found] ==> Time : 15:00:06.308974 .
+[Match Found] ==> Time : 15:00:07.601499 .
+[Match Found] ==> Time : 15:00:08.894528 .
+Unable to identify the faces => Time  : 15:00:09.319273 .
+[Match Found] ==> Time : 15:00:12.032341 .
+Unable to identify the faces => Time  : 15:00:12.455560 .
+Unable to identify the faces => Time  : 15:00:12.868305 .
+Unable to identify the faces => Time  : 15:00:13.286047 .
+Unable to identify the faces => Time  : 15:00:13.743564 .
+Unable to identify the faces => Time  : 15:00:14.171299 .
+Unable to identify the faces => Time  : 15:00:14.583056 .
+Unable to identify the faces => Time  : 15:00:14.983842 .
+Unable to identify the faces => Time  : 15:00:15.381305 .
+Unable to identify the faces => Time  : 15:00:15.797058 .
+Unable to identify the faces => Time  : 15:00:16.201034 .
+Unable to identify the faces => Time  : 15:00:17.895457 .
+Unable to identify the faces => Time  : 15:00:18.303210 .
+Unable to identify the faces => Time  : 15:00:18.713751 .
+Unable to identify the faces => Time  : 15:00:19.127497 .
+Unable to identify the faces => Time  : 15:00:19.545237 .
+Unable to identify the faces => Time  : 15:00:19.969412 .
+Unable to identify the faces => Time  : 15:00:20.450114 .
+Unable to identify the faces => Time  : 15:00:20.862392 .
+Unable to identify the faces => Time  : 15:00:21.270141 .
+Unable to identify the faces => Time  : 15:00:21.740096 .
+Unable to identify the faces => Time  : 15:00:22.148210 .
+Unable to identify the faces => Time  : 15:00:22.558494 .
+Unable to identify the faces => Time  : 15:00:22.969134 .
+Unable to identify the faces => Time  : 15:00:23.473818 .
+Unable to identify the faces => Time  : 15:00:23.889562 .
+Unable to identify the faces => Time  : 15:00:24.273326 .
+Unable to identify the faces => Time  : 15:00:24.677074 .
+Unable to identify the faces => Time  : 15:00:25.057841 .
+Unable to identify the faces => Time  : 15:00:25.430608 .
+Unable to identify the faces => Time  : 15:00:25.804379 .
+Unable to identify the faces => Time  : 15:00:26.177144 .
+Unable to identify the faces => Time  : 15:00:26.549917 .
+Unable to identify the faces => Time  : 15:00:26.927681 .
+Unable to identify the faces => Time  : 15:00:27.309447 .
+Unable to identify the faces => Time  : 15:00:27.677218 .
+Unable to identify the faces => Time  : 15:00:28.068533 .
+[Match Found] ==> Time : 15:00:29.255993 .
+Unable to identify the faces => Time  : 15:00:30.867003 .
+[Match Found] ==> Time : 15:00:32.027772 .
+ mail send successfully . 
+dheeraj logged out at 15:00:32.029772.
+Total active time is 0:00:50.876315 sec . 
+ ==============  face is  detecting for 0 sec .           ========================
+ ==============  face is not detecting for 0  sec .          ======================== 
+ ==============   unknown face is  detecting for 0 sec .            ======================== 
